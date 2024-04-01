@@ -2,7 +2,7 @@
 
 Learn to build generative AI apps using Gradio, a short course provided by DeepLearning.AI in collaboration with Hugging Face.
 
----
+![Cover Image](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/Images/genAIcover.jpg)
 
 ## Contents:
 
@@ -12,11 +12,10 @@ Learn to build generative AI apps using Gradio, a short course provided by DeepL
 
 ## What We'll Build:
 
-- NLP App Interface:
+1. NLP App Interface:
   - Text Summarization App
   - Named Entity Recognition App
-- Image Captioning App
-- Image Generation App (Text-to-Image)
-- Describe and Generate App
+2. Image Captioning App
+3. Image Generation App (Text-to-Image)
+4. [Describe-and-Generate App](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/describe_and_generate_app.ipynb)
 
-![Cover Image](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/Images/genAIcover.jpg)
