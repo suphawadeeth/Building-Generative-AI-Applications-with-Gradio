@@ -16,6 +16,6 @@ Learn to build generative AI apps using Gradio, a short course provided by DeepL
   - Text Summarization App
   - Named Entity Recognition App
 2. Image Captioning App
-3. Image Generation App (Text-to-Image)
+3. [Image Generation App (text-to-image)](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/03_image_generation_app.ipynb)
 4. [Describe-and-Generate App](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/04_describe_and_generate_app.ipynb)
 
