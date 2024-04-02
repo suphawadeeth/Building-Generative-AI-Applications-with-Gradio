@@ -13,7 +13,7 @@ Learn to build generative AI apps using Gradio, a short course provided by DeepL
 ## What We'll Build:
 
 1. NLP App Interface:
-  - Text Summarization App
+  - [Text Summarization App](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/01_NLP_summarize_text_app.ipynb)
   - Named Entity Recognition App
 2. Image Captioning App
 3. [Image Generation App (text-to-image)](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/03_image_generation_app.ipynb)
