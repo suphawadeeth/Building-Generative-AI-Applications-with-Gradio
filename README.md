@@ -13,10 +13,10 @@ Learn to build generative AI apps using Gradio, a short course provided by DeepL
 ## What We'll Build:
 
 1. NLP App Interface:
-    - [Text Summarization App](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/01_NLP_summarize_text_app.ipynb)
+    - [Text Summarization App (bart-large-cnn)](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/01_NLP_summarize_text_app.ipynb)
     - [Named Entity Recognition App (bert-base-NER)](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/01_2_NLP_named_entity_recognition_app.ipynb)
-2. [Image Captioning App ()]()
-3. [Image Generation App (text-to-image)](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/03_image_generation_app.ipynb)
+2. [Image Captioning App (image-to-text, blip-image-captioning-base)](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/02_NLP_image_captioning_app.ipynb)
+3. [Image Generation App (text-to-image, stable-diffusion-v1-5)](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/03_image_generation_app.ipynb)
 4. [Describe-and-Generate App](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/04_describe_and_generate_app.ipynb)
-5. [Chatbot App](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/05_LLM_chatbot_app.ipynb)
+5. [Chatbot App (Falcon-40B-Instruct)](https://github.com/suphawadeeth/Building-Generative-AI-Applications-with-Gradio/blob/main/05_LLM_chatbot_app.ipynb)
 
